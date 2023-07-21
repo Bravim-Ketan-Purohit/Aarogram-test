@@ -51,13 +51,22 @@ Start the server
 - Signin and signup with form validation
 
 
+
 ## Screenshots
 
+SignUP
 ![App Screenshot](https://github.com/Bravim-Ketan-Purohit/Aarogram-test/blob/main/Screenshots/Login.png)
 
+Signin
 ![App Screenshot](https://github.com/Bravim-Ketan-Purohit/Aarogram-test/blob/main/Screenshots/Signin.png)
 
+Main page with protected route
 ![App Screenshot](https://github.com/Bravim-Ketan-Purohit/Aarogram-test/blob/main/Screenshots/Main%20page.png)
+
+
+
+
+
 
 
 
