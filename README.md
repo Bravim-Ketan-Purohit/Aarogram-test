@@ -63,6 +63,9 @@ Signin
 Main page with protected route
 ![App Screenshot](https://github.com/Bravim-Ketan-Purohit/Aarogram-test/blob/main/Screenshots/Main%20page.png)
 
+Add report details from user
+![App Screenshot](https://github.com/Bravim-Ketan-Purohit/authentication/blob/main/Screenshots/enter%20report%20details.png)
+
 
 
 
