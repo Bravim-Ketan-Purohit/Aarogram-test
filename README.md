@@ -66,6 +66,9 @@ Main page with protected route
 Add report details from user
 ![App Screenshot](https://github.com/Bravim-Ketan-Purohit/authentication/blob/main/Screenshots/enter%20report%20details.png)
 
+Add report details from user
+![App Screenshot](https://github.com/Bravim-Ketan-Purohit/authentication/blob/main/Screenshots/main-representation-page.png)
+
 
 
 
