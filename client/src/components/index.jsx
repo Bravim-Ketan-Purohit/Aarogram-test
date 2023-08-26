@@ -1,12 +1,16 @@
-import { Table, TableBody, TableCell, TableHead, TableRow } from "@mui/material";
+import {
+  Table,
+  TableBody,
+  TableCell,
+  TableHead,
+  TableRow,
+} from "@mui/material";
 import Navbar from "../Navbar/Navbar";
-
+import { getreports } from "../";
 const Main = () => {
-	
-
-	return (
+  return (
     <div>
-      <Navbar/>
+      <Navbar />
       <Table>
         <TableHead>
           <TableRow>
@@ -17,9 +21,7 @@ const Main = () => {
             <TableCell>WBC</TableCell>
           </TableRow>
         </TableHead>
-        <TableBody>
-
-        </TableBody>
+        <TableBody></TableBody>
       </Table>
     </div>
   );

@@ -1,0 +1,65 @@
+.navbar {
+	width: 100%;
+	height: 100px;
+	background-color: #4867ff;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.navbar h1 {
+	color: white;
+	font-size: 25px;
+	margin-left: 20px;
+}
+
+.white_btn1 {
+	border: none;
+	outline: none;
+	padding: 12px 0px;
+	background-color: rgb(255, 99, 99);
+	border-radius: 20px;
+	width: 120px;
+	font-weight: bold;
+	font-size: 20px;
+	cursor: pointer;
+    margin: 5px;
+	/* margin-left: 0%; */
+}
+.white_btn1:hover{
+    background-color: rgb(254, 87, 87);
+}
+
+.white_btn {
+	border: none;
+	outline: none;
+	padding: 12px 0;
+	background-color: white;
+	border-radius: 20px;
+	width: 120px;
+	font-weight: bold;
+	font-size: 20px;
+	cursor: pointer;
+    margin: 5px;
+	/* margin-right: 20px;
+	margin-left: 90%; */
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
